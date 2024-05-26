@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProjectWebCaslab1.4/static/css/main.85e63554.css",
+    "main.js": "/ProjectWebCaslab1.4/static/js/main.a5f7c320.js",
+    "static/media/design13.png": "/ProjectWebCaslab1.4/static/media/design13.4e359dcede1d25aa09f9.png",
+    "static/media/design12.png": "/ProjectWebCaslab1.4/static/media/design12.d79eee4f09481cc46a65.png",
+    "index.html": "/ProjectWebCaslab1.4/index.html",
+    "main.85e63554.css.map": "/ProjectWebCaslab1.4/static/css/main.85e63554.css.map",
+    "main.a5f7c320.js.map": "/ProjectWebCaslab1.4/static/js/main.a5f7c320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85e63554.css",
+    "static/js/main.a5f7c320.js"
+  ]
+}
